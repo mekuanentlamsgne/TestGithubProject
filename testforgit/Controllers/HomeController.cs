@@ -17,6 +17,7 @@ namespace testforgit.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
+            string test = "this add variable";
             return View();
         }
 
